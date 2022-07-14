@@ -1,0 +1,31 @@
+{
+	"code": 0,
+	"message": "OK",
+	"data":[
+		{
+			"goodsId": 0,
+			"spanSize": 4,
+			"banners": [
+				"https://www.baidu.com",
+				"Https://www.baidu.com"
+			]
+		},
+		{
+			"goodsId": 1,
+			"spanSize": 4,
+			"text": "明星单品",
+			"imageUrl": "https://www.baidu.com"
+		},
+		{
+			"goodsId": 2,
+			"spanSize": 2,
+			"imageUrl": "https://www.baidu.com"
+		},
+		{
+			"goodsId": 3,
+			"spanSize": 2,
+			"imageUrl": "https://www.baidu.com"
+		}
+		
+	]
+}
